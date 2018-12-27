@@ -16,3 +16,15 @@ Bu seminarda Business Intelligence nədir, şirkət üçün faydalarından və s
 ## Seminarın qeyd edilmiş videosu
 
 [![](https://i.ytimg.com/vi/EAx4zK_1xsE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB9nlSG2J8_hTVBCH-42zAGtUCSmA)](https://youtu.be/EAx4zK_1xsE)
+
+---
+
+## Tech Academy
+
+**URL:** [https://www.tech.edu.az/](https://www.tech.edu.az/)
+
+**E-mail:** [marketing@tech.edu.az](mailto:marketing@tech.edu.az)
+
+**Phone:** [(+99450) 991 2002](phone:0509912002)
+
+**Address:** Atatürk Prospekti 89, Bakı, Azərbaycan
