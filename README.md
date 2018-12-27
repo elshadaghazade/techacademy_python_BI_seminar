@@ -9,6 +9,10 @@ Bu seminarda Business Intelligence nədir, şirkət üçün faydalarından və s
 3. .ipynb fayllarından hər hansı birini açmaq və **run** düyməsinə basmaq
 
 
+## Seminarda istifadə edilən slayd
+
+[Download Python_and_BI.pdf](./Slides.pdf)
+
 ## Seminarın qeyd edilmiş videosu
 
 [![](https://i.ytimg.com/vi/EAx4zK_1xsE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB9nlSG2J8_hTVBCH-42zAGtUCSmA)](https://youtu.be/EAx4zK_1xsE)
